@@ -1,3 +1,9 @@
+## demo-app-react-meetup
+example project for deploying to [surge.sh](https://surge.sh/) and [Github pages](https://pages.github.com/)
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
